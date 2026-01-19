@@ -1,0 +1,17 @@
+[
+  {
+    "phoneNumber": "+94772086967",
+    "macAddress": "24:6F:28:AA:BB:CC",
+    "name": "Mom"
+  },
+  {
+    "phoneNumber": "0711234567",
+    "macAddress": "DE:AD:BE:EF:FE:ED",
+    "name": "Dad"
+  },
+  {
+    "phoneNumber": "+94769876543",
+    "macAddress": "A1:B2:C3:D4:E5:F6",
+    "name": "Office"
+  }
+]
